@@ -1,0 +1,201 @@
+brand,category,condition,retail_price,resale_price
+Supreme,Shoes,Good,467,125
+Chanel,Jacket,Poor,675,105
+Supreme,Shoes,Good,648,162
+Zara,Bag,Good,466,56
+Adidas,Hat,Good,513,142
+H&M,Pants,Good,250,31
+Uniqlo,Pants,Poor,989,39
+Adidas,Bag,Fair,723,115
+Supreme,Dress,Good,609,146
+Gucci,Jacket,Good,630,277
+Adidas,Shirt,Poor,371,40
+Zara,Dress,Like New,979,166
+H&M,Jacket,Like New,401,63
+Uniqlo,Shoes,Like New,716,113
+Nike,Pants,Poor,635,64
+Chanel,Bag,Good,82,32
+Uniqlo,Hat,Poor,871,35
+Prada,Dress,Like New,49,30
+Gucci,Dress,Good,415,186
+Prada,Shoes,Poor,197,29
+Chanel,Shoes,Like New,856,476
+Supreme,Bag,Good,306,72
+Adidas,Hat,Like New,755,256
+Nike,Pants,New,299,127
+Chanel,Jacket,Poor,550,83
+Gucci,Jacket,Good,945,404
+H&M,Pants,New,982,196
+Uniqlo,Bag,Like New,104,31
+Zara,Bag,Like New,884,142
+Supreme,Dress,Like New,918,298
+Uniqlo,Shoes,Good,673,92
+Zara,Jacket,Like New,550,87
+Supreme,Hat,Good,86,35
+Adidas,Shirt,New,805,284
+Supreme,Jacket,Poor,926,93
+Uniqlo,Shoes,Like New,105,33
+Zara,Shirt,Like New,204,41
+Nike,Bag,New,925,332
+Gucci,Shirt,New,578,367
+Gucci,Shoes,Fair,216,72
+Zara,Bag,New,619,131
+Chanel,Hat,Fair,364,102
+Levi's,Dress,Fair,77,12
+Levi's,Jacket,Fair,476,93
+Chanel,Shirt,Good,977,408
+Prada,Shoes,Poor,772,118
+Zara,Shoes,Poor,276,19
+Chanel,Dress,Like New,810,469
+Prada,Shirt,Good,996,414
+Levi's,Shoes,New,578,217
+Levi's,Pants,New,709,272
+Prada,Shirt,Like New,221,131
+Levi's,Shirt,Poor,122,20
+Levi's,Pants,Like New,688,230
+Gucci,Shirt,Fair,874,247
+H&M,Jacket,Good,311,35
+Gucci,Bag,New,919,593
+Adidas,Bag,New,879,318
+Uniqlo,Jacket,New,74,23
+Adidas,Bag,Poor,774,72
+Nike,Pants,Good,894,228
+Uniqlo,Pants,Good,292,32
+H&M,Dress,Poor,115,2
+Supreme,Dress,Fair,407,74
+Prada,Pants,Like New,246,140
+Adidas,Hat,Fair,501,100
+Uniqlo,Bag,New,953,182
+Prada,Pants,Poor,778,114
+Zara,Shirt,Poor,248,12
+Uniqlo,Jacket,New,180,32
+H&M,Shoes,Good,205,23
+Prada,Pants,Poor,995,157
+Levi's,Bag,Fair,421,85
+H&M,Shirt,Fair,585,48
+Levi's,Jacket,Like New,343,105
+Levi's,Shirt,Like New,324,98
+Nike,Hat,New,202,75
+Uniqlo,Pants,Fair,769,59
+Zara,Dress,Like New,682,121
+Supreme,Pants,Good,946,239
+H&M,Pants,Fair,687,52
+Zara,Shirt,Poor,811,42
+Gucci,Bag,Fair,263,93
+Supreme,Dress,Fair,907,141
+Gucci,Shirt,Like New,52,38
+H&M,Pants,New,550,114
+Gucci,Hat,Good,689,285
+Supreme,Pants,Poor,302,38
+Uniqlo,Shirt,Good,207,36
+Prada,Hat,Like New,53,32
+Prada,Hat,Fair,903,249
+Supreme,Bag,Like New,474,159
+Gucci,Shoes,Fair,428,136
+H&M,Dress,Good,681,90
+Supreme,Shirt,Like New,279,94
+Levi's,Bag,Good,588,149
+Uniqlo,Bag,New,496,98
+Nike,Pants,Good,750,182
+Levi's,Shirt,Fair,943,168
+Zara,Shirt,Like New,850,153
+Prada,Hat,Like New,841,466
+Prada,Hat,Good,791,339
+Uniqlo,Shoes,Good,399,50
+Gucci,Dress,New,176,128
+Adidas,Pants,Poor,742,73
+Supreme,Jacket,New,285,111
+Nike,Shoes,Like New,573,187
+Supreme,Pants,Poor,143,30
+Nike,Jacket,Like New,956,307
+Uniqlo,Shirt,Like New,114,25
+Prada,Jacket,Fair,950,265
+Prada,Bag,Fair,146,48
+Uniqlo,Bag,Fair,700,71
+Uniqlo,Hat,Poor,856,49
+Nike,Shirt,Like New,104,36
+Chanel,Bag,Good,411,189
+Prada,Bag,Good,337,145
+H&M,Hat,Fair,370,49
+Zara,Jacket,Like New,376,57
+Levi's,Hat,Fair,252,45
+Levi's,Bag,New,571,204
+Levi's,Shoes,Fair,497,75
+Prada,Shirt,New,949,609
+Uniqlo,Hat,Fair,421,51
+Nike,Jacket,Fair,422,64
+Uniqlo,Dress,Like New,978,158
+Chanel,Dress,Poor,221,30
+H&M,Pants,New,237,50
+Nike,Shoes,Good,979,252
+Chanel,Dress,Like New,254,154
+Gucci,Shoes,Poor,92,11
+Prada,Jacket,Like New,949,536
+H&M,Shirt,Fair,473,45
+Supreme,Shoes,Like New,639,223
+H&M,Jacket,New,654,135
+Levi's,Hat,Like New,900,303
+Supreme,Jacket,Fair,254,57
+Adidas,Jacket,Good,576,146
+Adidas,Hat,Poor,570,51
+Prada,Shoes,Poor,133,15
+Uniqlo,Jacket,Poor,901,40
+H&M,Shoes,Poor,315,16
+Supreme,Hat,New,459,182
+H&M,Bag,Fair,308,28
+H&M,Hat,Fair,631,58
+Supreme,Shirt,New,809,289
+Chanel,Pants,New,700,457
+Uniqlo,Shirt,Good,261,48
+Zara,Dress,Good,524,71
+H&M,Pants,Good,867,118
+Zara,Bag,Fair,57,18
+Gucci,Hat,Fair,693,203
+Chanel,Bag,Fair,344,97
+Prada,Shoes,Poor,478,66
+H&M,Jacket,Good,464,61
+Supreme,Dress,Like New,30,17
+Zara,Jacket,Good,813,95
+Nike,Pants,New,298,109
+Zara,Pants,New,145,26
+Adidas,Dress,Fair,31,7
+Zara,Jacket,Poor,84,6
+Uniqlo,Shirt,Like New,941,168
+Zara,Shoes,Like New,756,116
+Chanel,Bag,New,938,608
+Chanel,Pants,Good,762,323
+Chanel,Dress,Good,854,372
+Nike,Shirt,Like New,972,327
+Zara,Dress,New,962,189
+Prada,Bag,Fair,579,176
+H&M,Hat,Good,171,35
+Zara,Shoes,New,940,181
+Prada,Shoes,New,677,441
+H&M,Pants,Poor,318,18
+Levi's,Dress,Like New,882,285
+Adidas,Jacket,Good,306,76
+Chanel,Jacket,Like New,212,123
+Prada,Shirt,Like New,638,371
+Adidas,Shoes,Like New,432,136
+Chanel,Bag,Like New,88,67
+Chanel,Shoes,Like New,755,437
+Prada,Jacket,Like New,691,389
+Zara,Hat,New,734,150
+Prada,Shoes,Fair,454,139
+Nike,Jacket,New,509,182
+H&M,Shirt,Like New,137,17
+Zara,Shirt,Good,669,85
+Zara,Shoes,Like New,216,29
+Uniqlo,Jacket,Like New,130,40
+Zara,Shirt,Poor,511,34
+Uniqlo,Shoes,New,156,31
+Chanel,Shoes,Like New,569,325
+Prada,Jacket,New,485,318
+Supreme,Hat,Good,179,62
+Adidas,Bag,New,137,64
+Chanel,Shoes,Fair,855,252
+Supreme,Bag,Like New,386,125
+Supreme,Shoes,Poor,598,67
+Chanel,Bag,Fair,673,194
+Prada,Shirt,Good,612,275
+Supreme,Shirt,Like New,793,253
