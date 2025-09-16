@@ -16,9 +16,7 @@ function Landing() {
   const [isTyping, setIsTyping] = useState(false);
   const [history, setHistory] = useState([]);
   const [showHistory, setShowHistory] = useState(false);
-  const [settingsTab, setSettingsTab] = useState(false)
-  const [theme, setTheme] = useState("light")
-
+ 
   const handlePredict = async () => {
     if (!brand || !category || !condition || !retailPrice) return;
 
@@ -122,20 +120,6 @@ function Landing() {
     }
   };
 
-  {/*Open settings Tab */}
-  const handleSettings = () => {
-    setSettingsTab((prev) => !prev)
-  }
-
-
-  {/* toggle dark mode */}
-  const toggleTheme = () => {
-    const newTheme = theme === "light" ? "dark": "light"
-    setTheme(newTheme)
-    document.body.className = newTheme
-  }
-
-  
 
   return (
     <div className="flex h-screen flex-col">
@@ -144,12 +128,6 @@ function Landing() {
         <div className="w-80 bg-white text-black p-4">
           <h2 className="text-xl font-bold mb-6">ThriftAI</h2>
           <ul>
-            <li className="mb-4 hover:text-orange-500 p-2 cursor-pointer flex items-center text-[18px] mt-20">
-              <span className="mr-2">
-                <GoHomeFill size={20} />
-              </span>
-              Home
-            </li>
             <li
               className="mb-4 hover:text-orange-500 p-2 cursor-pointer flex items-center text-[18px] mt-20"
               onClick={handleMyPredictions}
@@ -158,12 +136,6 @@ function Landing() {
                 <FaHistory size={20} />
               </span>
               My predictions
-            </li>
-            <li className="mb-4 hover:text-orange-500 p-2 cursor-pointer flex items-center text-[18px] mt-20"onClick={handleSettings}>
-              <span className="mr-2">
-                <IoSettingsOutline size={20} />
-              </span>
-              Settings
             </li>
           </ul>
         </div>
@@ -206,28 +178,7 @@ function Landing() {
               </div>
             </div>
           )}
-          {settingsTab && (
-              <div className="absolute inset-0 flex items-center justify-center">
-              <div className="relative bg-none  p-6 w-3/4 h-3/4 overflow-y-auto flex">
-      
-               {/* Sidebar */}
-              <div className="w-80 bg-stone-100 text-black p-4 rounded-l-lg shadow-md">
-                <h1 className="text-orange-500 text-[25px] font-semibold">Settings</h1>
-                <butoon className="flex items-center mt-10 text-[15px] font-semibold text-stone-400 transition-all duration-300 hover:text-orange-500 cursor-pointer"><span className="mr-4"><ImDisplay size={20}/></span>Display</butoon>
-            </div>
-
-             {/* Main content area */}
-             <div className="flex-1 bg-gray-100 p-6 rounded-r-lg bg-white shadow-md">
-              <h1 className="text-stone-500 font-semibold text-[40px]">Display Settings</h1>
-              <div className="mt-10 flex itmes-center space-x-6">
-              <h2 className="text-stone-400 mt-10 text-[20px]">Cange Theme</h2>
-              <button className="mt-10 ml-20" onClick={toggleTheme}><ToggleSwitch /></button>
-              </div>
-            </div>
-      
-            </div>
-            </div>
-           )}
+         
 
           {/* Chat UI */}
           <div className="flex-1 flex flex-col p-6 overflow-y-auto">
